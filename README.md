@@ -1,6 +1,8 @@
 ## Project 
 
-This repo contains an UI clone (partial) from Discord application, based on Rocketseat's tutorial
+This repo contains an UI clone from Discord application, based on Rocketseat's tutorial
+
+Deployed [here](https://discord-clone-study.netlify.app/).
 
 ### Techs
 
